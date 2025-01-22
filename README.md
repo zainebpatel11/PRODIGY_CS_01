@@ -9,9 +9,7 @@ Offers an interactive experience with options to perform multiple operations in 
 
 How to Use
 Clone the repository or download the code.
-Run the script:
-bash
-python main.py
+Run the script: python main.py
 Follow the prompts to:
 Enter your message.
 Specify the shift value (integer).
